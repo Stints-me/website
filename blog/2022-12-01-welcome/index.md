@@ -7,7 +7,7 @@ tags: [stints, updates]
 
 ![Welcome](./welcome.webp)
 
-Hey, and welcome to **Stints.me**
+Hey, merry Christmas, and welcome to **Stints.me**
 
 **Stints.me** is an exciting new To-Do App.
 For now the app has several awesome & elegant features, some of which are listed here:
