@@ -24,12 +24,6 @@ function HomepageHeader() {
           >
             iOS
           </Link>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro"
-          >
-            Android
-          </Link>
         </div> */}
       </div>
     </header>
